@@ -11,3 +11,8 @@ At its core, the system relies on the YOLOv4-tiny algorithm to recognize the use
 
 The codebase is admittedly quite messy—as I hadn’t yet learned the fundamentals of code decomposition at the time. 
 So yes, prepare yourself for a generous serving of spaghetti code!
+
+Disclamer:
+The OpenCV library is not included in the repo to save space. 
+For future use, the OpenCV library must be placed directly inside the TrackBot directory.
+
