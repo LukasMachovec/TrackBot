@@ -7,7 +7,7 @@ Tracking is achieved by sending instructions via Bluetooth to an Arduino microco
 The Arduino then rotates a servo motor accordingly to follow the user.
 
 The Android app features a simple GUI, with a Java backend handling user input and interacting with the operating system. 
-At its core, the system relies on the YOLOv4-tiny algorithm, which runs within an embedded Python script responsible for user recognition and tracker initialization.
+At its core, the system relies on the YOLOv4-tiny algorithm to recognize the user, running within an embedded Python script along with OpenCV used for tracker initialization.
 
 The codebase is admittedly quite messy—as I hadn’t yet learned the fundamentals of code decomposition at the time. 
 So yes, prepare yourself for a generous serving of spaghetti code!
