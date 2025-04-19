@@ -1,4 +1,4 @@
-I developed this project as my senior-year high school diploma work.
+I developed this project as my senior-year high school diploma project. **It brings together a Java backend, an Android GUI built with Material Design, electrical engineering, Python scripting, and 3D design and printing.**
 
 The system consists of a smartphone mounted in a phone grip stand at the center of a custom-designed 3D-printed casing. 
 An Android application on the phone uses the camera to recognize the user, initiate video recording, and continuously track their movement around the room—keeping them centered in the frame.
