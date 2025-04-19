@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FPS30"
+        android:title="30 Fps" />
+
+    <item
+        android:id="@+id/FPS60"
+        android:title="60 Fps" />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btnOn">On</string>
+    <string name="btnOff">Off</string>
+    <string name="btnConnect">Connect BT</string>
+
+
+</resources>
